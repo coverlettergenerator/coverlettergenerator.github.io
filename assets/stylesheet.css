@@ -1,0 +1,15 @@
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 7vh;
+  text-align: center;
+  margin: 2vh 0vh 2vh 0vh;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vh;
+    margin: 2vh 0vh 2vh 0vh;
+}
+.inputform{
+  margin: 1vh 0vh 1vh 0vh;
+}
